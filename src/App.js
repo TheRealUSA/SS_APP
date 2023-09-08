@@ -24,7 +24,7 @@ function App() {
 
   <Route path='/Precios' element={<Precios/>}/>
 
-  <Route path='/Iniciar Sesión' element={<InicioSesion/>}/>
+  <Route path='/InicioSesion' element={<InicioSesion/>}/>
 
 
     
