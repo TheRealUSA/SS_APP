@@ -6,7 +6,6 @@ export default function FormRegister() {
     const navigate = useNavigate();
     const BackClick = () => {
       window.scrollTo({ top: 0, behavior: "smooth" });
-      // Navega a la vista 'Registrarse' al hacer clic en el botón
       navigate('/InicioSesion');
   };
 
