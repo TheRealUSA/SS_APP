@@ -9,22 +9,22 @@ const links = [
     id: 1,
   },
   {
-    link: 'Musicos',
+    link: '/Musicos',
     text: 'Musicos',
     id: 2,
   },
   {
-    link: 'Oportunidades',
+    link: '/Oportunidades',
     text: 'Oportunidades',
     id: 3,
   },
   {
-    link: 'Precios',
+    link: '/Precios',
     text: 'Precios',
     id: 4,
   },
   {
-    link: 'InicioSesion',
+    link: '/InicioSesion',
     text: 'Inicio sesión',
     id: 5,
   },
